@@ -1,0 +1,50 @@
+body {
+    background-image: url("/images/chi.webp");
+    background-size: cover;
+    border: 100px;
+    border-radius: 50%;
+}
+img {
+    width: 30%;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    padding-left: 40%;
+    color: white;
+}
+
+p span {
+    color: white;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    padding-right: 0.5%;
+}
+
+video {
+    padding-left: 20%;
+}
+
+.styled-button {
+    background-color: #4CAF50; /* Primary green */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Add cursor pointer */
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .styled-button:hover {
+    background-color: #388E3C; /* Hover green */
+  }
+  
